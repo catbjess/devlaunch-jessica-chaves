@@ -10,3 +10,6 @@ Cuando se realiza una transacción en la blockchain, la información del bloque 
 Cuando se verifica una transacción, se abre un nuevo bloque y se crea un Bitcoin que se entrega como recompensa a los mineros que verificaron los datos dentro del bloque; luego, pueden usarlo, conservarlo o venderlo.
 
 Bitcoin usa el algoritmo hash SHA-256 para cifrar los datos almacenados en los bloques de la blockchain.
+
+Las tiendas físicas que aceptan criptomonedas generalmente muestran un cartel que dice "Bitcoin aceptado aquí". Las transacciones se pueden realizar con la terminal de hardware o la dirección de billetera requerida a través de códigos QR y aplicaciones de pantalla táctil.
+Un negocio en línea puede aceptar bitcoins fácilmente agregando esta opción de pago a sus otras opciones de pago en línea.
