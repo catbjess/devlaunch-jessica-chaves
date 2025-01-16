@@ -13,3 +13,5 @@ Bitcoin usa el algoritmo hash SHA-256 para cifrar los datos almacenados en los b
 
 Las tiendas físicas que aceptan criptomonedas generalmente muestran un cartel que dice "Bitcoin aceptado aquí". Las transacciones se pueden realizar con la terminal de hardware o la dirección de billetera requerida a través de códigos QR y aplicaciones de pantalla táctil.
 Un negocio en línea puede aceptar bitcoins fácilmente agregando esta opción de pago a sus otras opciones de pago en línea.
+
+Si no has comprado BTC en el 2024, te va a doler no estar en el bullrun
