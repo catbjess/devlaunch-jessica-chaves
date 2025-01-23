@@ -1,0 +1,22 @@
+Proporciona una explicación detallada en un archivo txt de las acciones que realizarías
+al cocinar un huevo
+
+SOLUCIÓN:
+
+1. Entro a la cocina
+2. Abro el refrigerador
+3. Abro el recipiente que contiene huevos y saco 1
+4. Dejo el huevo en el counter y cierro el recipiente y el refrigerador
+5. Tomo una pequeña taza y la pongo junto al huevo
+6. Tomo el huevo y lo rompo en una esquina del counter
+7. Vierto el contenido del huevo en la taza
+8. Le echo sal al contenido del huevo
+9. Con una cuchara, bato los ingredientes
+10. Tomo un sartén y lo pongo en un disco de la cocina
+11. Tomo el aceite y vierto un poco en el sartén
+12. Enciendo el disco de la cocina y dejo calentar
+13. Una vez caliente, vierto los ingredientes en el sartén
+14. Revuelto todo para ir cocinando un huevo Revuelto
+15. Saco un plato y lo coloco en el counter
+16. Apago el disco y tomo el sartén
+17. Sirvo el huevo en el plato
