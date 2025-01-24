@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/catbjess/devlaunch-jessica-chaves/issues"
   },
-  "homepage": "https://github.com/catbjess/devlaunch-jessica-chaves#readme"
+  "homepage": "https://github.com/catbjess/devlaunch-jessica-chaves#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
